@@ -16,10 +16,10 @@ $(document).ready(function() {
     });
 
     $("button.btn-danger").on('click', function() {
-        location.href='auth.php';
+        location.href='auth.html';
     });
 
     $("button.btn-info").on('click', function() {
-        location.href='auth.php';
+        location.href='auth.html';
     });
 });
